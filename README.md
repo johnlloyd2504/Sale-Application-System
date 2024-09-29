@@ -1,7 +1,7 @@
 # Sale-Application-System
 import java.util.Scanner;
 
-public class YourName_Act1415 {
+public class YourName {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 
